@@ -1,5 +1,6 @@
 def my_square(x):
 	"""Takes a value and returns the squared value.
+	   Added comments
 	"""
 	return(x ** 2)
 
